@@ -1,7 +1,7 @@
 {
     "openapi": "3.0.0",
     "info": {
-     "title": "Solid intro user crud node js api",
+     "title": "SOLID User NodeJS API",
      "version": "1.0.0"
     },
      "paths": {
@@ -24,8 +24,8 @@
              }
             },
             "example": {
-             "name": "Ziggy",
-             "descritpion": "ziggy123@gmail.com"
+             "name": "Fattahul Akbar",
+             "email": "akbarfatt@gmail.com"
             }
            }
           }
@@ -49,19 +49,19 @@
               },
               "created_at": {
                "type": "string",
-               "example": "2021-10-27T13:11:24.338Z"
+               "example": "2022-11-12T09:49:28.876Z"
               },
               "updated_at": {
                "type": "string",
-               "example": "2021-10-27T13:11:24.338Z"
+               "example": "2022-11-12T09:49:28.876Z"
               },
               "name": {
                "type": "string",
-               "example":"Ziggy"
+               "example":"Fattahul Akbar"
               },
               "email": {
                "type": "string",
-               "example": "ziggy123@gmail.com"
+               "example": "akbarfatt@gmail.com"
               }
              }
             }
@@ -115,11 +115,11 @@
                         },
                         "name": {
                          "type": "string",
-                         "example":"Ziggy"
+                         "example":"Fattahul Akbar"
                         },
                         "email": {
                          "type": "string",
-                         "example": "ziggy123@gmail.com"
+                         "example": "akbarfatt@gmail.com"
                         }
                      }
                    }
@@ -186,11 +186,11 @@
                        },
                        "name": {
                         "type": "string",
-                        "example":"Ziggy"
+                        "example":"Fattahul Akbar"
                        },
                        "email": {
                         "type": "string",
-                        "example": "ziggy123@gmail.com"
+                        "example": "akbarfatt@gmail.com"
                        }
                     }
    
@@ -242,11 +242,11 @@
                      },
                      "name": {
                       "type": "string",
-                      "example":"Ziggy"
+                      "example":"Fattahul Akbar"
                      },
                      "email": {
                       "type": "string",
-                      "example": "ziggy123@gmail.com"
+                      "example": "akbarfatt@gmail.com"
                      }
                    }
                  }
